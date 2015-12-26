@@ -1,0 +1,130 @@
+{
+  "name": "John Doe",
+  "info": {
+    "label": "Programmer",
+    "image": "",
+    "brief": "A summary of John Doe..."
+  },
+  "contact": {
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "http://johndoe.com"
+  },
+  "location": {
+    "city": "San Francisco",
+    "region": "California",
+    "country": "US",
+    "code": "CA 94115",
+    "address": "2712 Broadway St"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "President",
+        "employer": "Company",
+        "summary": "Description...",
+        "start": "2013-01-01",
+        "end": "2014-01-01",
+        "url": "http://company.com",
+        "keywords": "",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "history": [
+      {
+        "institution": "University",
+        "start": "2011-01-01",
+        "end": "2013-01-01",
+        "grade": "4.0",
+        "curriculum": [
+          "DB1101 - Basic SQL"
+        ],
+        "url": null,
+        "summary": null,
+        "area": "Software Development",
+        "studyType": "Bachelor"
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Volunteer",
+        "organization": "Organization",
+        "start": "2012-01-01",
+        "end": "2013-01-01",
+        "url": "http://organization.com/",
+        "summary": "Description...",
+        "highlights": [
+          "Awarded 'Volunteer of the Month'"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "Master",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+      }
+    ]
+  },
+  "writing": [
+    {
+      "title": "Publication",
+      "publisher": "Company",
+      "url": "http://publication.com",
+      "date": "2014-10-01",
+      "summary": "Description..."
+    }
+  ],
+  "recognition": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "from": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "social": [
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "http://twitter.com/john",
+      "user": "john"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jane Doe",
+      "flavor": "professional",
+      "quote": "Reference...",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
