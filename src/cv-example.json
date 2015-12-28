@@ -1,9 +1,12 @@
 {
+
   "name": "Jane Q. Fullstacker",
+
   "meta": {
     "format": "FRESH@0.1.0",
     "version": "0.1.0"
   },
+
   "info": {
     "label": "Senior Developer",
     "characterClass": "Programmer",
@@ -11,6 +14,7 @@
     "image": "jane_doe.png",
     "quote": "Be the change you want to see in the world."
   },
+
   "contact": {
     "website": "http://janef.me/blog",
     "phone": "1-650-999-7777",
@@ -33,6 +37,7 @@
       }
     ]
   },
+
   "location": {
     "address": "Jane Fullstacker\n123 Somewhere Rd.\nMountain View, CA 94035",
     "city": "Mountain View",
@@ -40,13 +45,16 @@
     "code": "94035",
     "country": "US"
   },
+
   "social": [
+
     {
       "label": "GitHub",
       "network": "GitHub",
       "user": "janef-was-here",
       "url": "https://github.com/janef-was-here"
     },
+
     {
       "label": "Twitter",
       "network": "Twitter",
@@ -54,9 +62,13 @@
       "url": "https://twitter.com/janef-was-here"
     }
   ],
+
   "employment": {
+
     "summary": "7+ years industry IT and software development experience.",
+
     "history": [
+
       {
         "employer": "One Cool Startup",
         "url": "https://onecool.io/does-not-exist",
@@ -64,18 +76,10 @@
         "summary": "Development team manager for [OneCoolApp](https://en.wikipedia.org/wiki/Vaporware) and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.",
         "start": "2013-09",
         "current": true,
-        "keywords": [
-          "Agile",
-          "PM",
-          "Amazon Web Services",
-          "AWS"
-        ],
-        "highlights": [
-          "Managed a 5-person development team",
-          "Accomplishment 2",
-          "Etc."
-        ]
+        "keywords": ["Agile","PM","Amazon Web Services","AWS"],
+        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
       },
+
       {
         "employer": "Veridian Dynamics",
         "url": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
@@ -83,60 +87,43 @@
         "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
         "start": "2011-07",
         "end": "2013-08",
-        "keywords": [
-          "C++",
-          "C",
-          "Linux"
-        ],
-        "highlights": [
-          "Managed a 5-person development team",
-          "Accomplishment 2",
-          "Etc."
-        ]
+        "keywords": ["C++","C","Linux"],
+        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
       },
+
       {
         "employer": "Stark Industries",
         "position": "IT Administrator",
         "summary": "Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.",
         "start": "2008-10",
         "end": "2011-06",
-        "keywords": [
-          "Novell",
-          "Active Directory",
-          "Linux",
-          "Windows"
-        ],
-        "highlights": [
-          "Promoted to intermediate developer after 6 months",
-          "Accomplishment 2",
-          "Etc."
-        ]
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Promoted to intermediate developer after 6 months", "Accomplishment 2", "Etc."]
       },
+
       {
         "employer": "Dunder Mifflin",
         "position": "Intern",
         "summary": "Performed IT administration and deployments for Dunder Mifflin.",
         "start": "2008-06",
         "end": "2008-09",
-        "keywords": [
-          "Novell",
-          "Active Directory",
-          "Linux",
-          "Windows"
-        ],
-        "highlights": [
-          "Supervised roll-out of Dunder Mifflin Infinity website.",
-          "Performed mission-critical system backups and ",
-          "Etc."
-        ]
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Supervised roll-out of Dunder Mifflin Infinity website.", "Performed mission-critical system backups and ", "Etc."]
       }
     ]
+
   },
+
   "education": {
+
     "summary": "",
+
     "level": "degree",
+
     "degree": "BSCS",
+
     "history": [
+
       {
         "institution": "Cornell University",
         "url": "https://www.cornell.edu/",
@@ -144,12 +131,9 @@
         "end": "2008-05",
         "grade": "3.5",
         "summary": "A multiline summary of the education.",
-        "curriculum": [
-          "Course 1",
-          "Course 2",
-          "Course 2"
-        ]
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
       },
+
       {
         "institution": "Medfield College",
         "url": "https://en.wikipedia.org/wiki/Medfield_College",
@@ -157,16 +141,16 @@
         "end": "2005-06",
         "grade": "3.2",
         "summary": "A multiline summary of the education.",
-        "curriculum": [
-          "Course 1",
-          "Course 2",
-          "Course 2"
-        ]
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
       }
     ]
+
   },
+
   "service": {
+
     "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
+
     "history": [
       {
         "flavor": "volunteer",
@@ -176,11 +160,7 @@
         "start": "2003-11",
         "end": "2005-06",
         "summary": "Summary of this volunteer stint.",
-        "highlights": [
-          "Accomplishment 1",
-          "Accomplishment 2",
-          "etc"
-        ]
+        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
       },
       {
         "flavor": "military",
@@ -190,74 +170,52 @@
         "start": "1999-11",
         "end": "2003-06",
         "summary": "Summary of this military stint.",
-        "highlights": [
-          "Accomplishment 1",
-          "Accomplishment 2",
-          "etc"
-        ]
+        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
       }
     ]
+
   },
+
   "skills": {
+
     "sets": [
       {
         "name": "Web Development",
         "level": "advanced",
         "skills": [
-          "JavaScript",
-          "HTML 5",
-          "CSS",
-          "LAMP",
-          "MVC",
-          "REST"
+          "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
         ]
       },
       {
         "name": "JavaScript",
         "level": "master",
         "skills": [
-          "Node.js",
-          "Angular.js",
-          "jQuery",
-          "Bootstrap",
-          "React.js",
-          "Backbone.js"
+          "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js", "Backbone.js"
         ]
       },
       {
         "name": "Database",
         "level": "intermediate",
         "skills": [
-          "MySQL",
-          "PostgreSQL",
-          "NoSQL",
-          "ORM",
-          "Hibernate"
+          "MySQL", "PostgreSQL", "NoSQL", "ORM", "Hibernate"
         ]
       },
       {
         "name": "Cloud",
         "level": "intermediate",
         "skills": [
-          "AWS",
-          "EC2",
-          "RDS",
-          "S3",
-          "Azure",
-          "Dropbox"
+          "AWS", "EC2", "RDS", "S3", "Azure", "Dropbox"
         ]
       },
       {
         "name": "Project",
         "level": "beginner",
         "skills": [
-          "Agile",
-          "TFS",
-          "Unified Process",
-          "MS Project"
+          "Agile", "TFS", "Unified Process", "MS Project"
         ]
       }
     ],
+
     "list": [
       {
         "name": "C++",
@@ -295,6 +253,7 @@
       }
     ]
   },
+
   "samples": [
     {
       "title": "Asteroids",
@@ -309,7 +268,20 @@
       "date": "2015-07"
     }
   ],
+
   "writing": [
+    {
+      "title": "Teach Yourself GORFF in 21 Days",
+      "flavor": "book",
+      "date": "2008",
+      "publisher": {
+        "name": "Amazon",
+        "url": "https://www.amazon.com"
+      },
+      "url": "http://url.to.publication.com/blah",
+      "author": [ "Jane Fullstacker", "John Smith" ],
+      "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
+    },
     {
       "title": "Building User Interfaces with Electron and Atom",
       "flavor": "article",
@@ -329,23 +301,9 @@
         "url": "http://janef.me"
       },
       "url": "http://janef.me"
-    },
-    {
-      "title": "Teach Yourself GORFF in 21 Days",
-      "flavor": "book",
-      "date": "2008",
-      "publisher": {
-        "name": "Amazon",
-        "url": "https://www.amazon.com"
-      },
-      "url": "http://url.to.publication.com/blah",
-      "author": [
-        "Jane Fullstacker",
-        "John Smith"
-      ],
-      "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
     }
   ],
+
   "reading": [
     {
       "title": "Code Complete",
@@ -370,6 +328,7 @@
       "author": "Jeff Atwood"
     }
   ],
+
   "speaking": [
     {
       "title": "Data Warehousing Evolved: DARMA 2.0",
@@ -382,6 +341,7 @@
       ]
     }
   ],
+
   "recognition": [
     {
       "flavor": "award",
@@ -398,6 +358,7 @@
       "date": "2012"
     }
   ],
+
   "references": [
     {
       "name": "John Davidson",
@@ -417,6 +378,7 @@
       ]
     }
   ],
+
   "testimonials": [
     {
       "name": "John Davidson",
@@ -435,6 +397,7 @@
       "quote": "I've known Jane personally and professionally for almost ten years. She is one in a million."
     }
   ],
+
   "languages": [
     {
       "language": "English",
@@ -446,6 +409,7 @@
       "years": 10
     }
   ],
+
   "extracurricular": [
     {
       "title": "Bay Area Crew Club",
@@ -463,8 +427,10 @@
         "Monthly speaker on creative JavaScript development.",
         "Founded group and oversaw growth to 500+ members."
       ]
+
     }
   ],
+
   "governance": [
     {
       "flavor": "board",
@@ -486,15 +452,12 @@
       ]
     }
   ],
+
   "interests": [
     {
       "name": "reading",
       "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
-      "keywords": [
-        "mystery",
-        "Agatha Christie",
-        "John Grisham"
-      ]
+      "keywords": [ "mystery", "Agatha Christie", "John Grisham" ]
     },
     {
       "name": "hiking",
@@ -504,4 +467,6 @@
       "name": "yoga"
     }
   ]
+
+
 }

@@ -3,10 +3,10 @@
 <w:wordDocument xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
   <w:ignoreSubtree w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2"/>
   <o:DocumentProperties>
-    <o:Title>Resume for John Doe</o:Title>
-    <o:Author>John Doe</o:Author>
+    <o:Title>Resume for Jane Q. Fullstacker</o:Title>
+    <o:Author>Jane Q. Fullstacker</o:Author>
     <o:Keywords>resume;CV</o:Keywords>
-    <o:LastAuthor>John Doe</o:LastAuthor>
+    <o:LastAuthor>Jane Q. Fullstacker</o:LastAuthor>
     <o:Revision>1</o:Revision>
     <o:TotalTime>60</o:TotalTime>
     <o:Created>2015-12-16T17:38:00Z</o:Created>
@@ -450,7 +450,7 @@
           <w:pStyle w:val="Title"/>
         </w:pPr>
         <w:r>
-          <w:t>John Doe</w:t>
+          <w:t>Jane Q. Fullstacker</w:t>
         </w:r>
       </w:p>
       <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="00505903" wsp:rsidP="00C146CA">
@@ -460,28 +460,28 @@
           </w:rPr>
           <!-- <w:jc w:val="right"/> -->
         </w:pPr>
-        <w:hlink w:dest="mailto:john@gmail.com">
+        <w:hlink w:dest="mailto:jdoe@onecoolstartup.io">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
               <w:sz w:val="16"/>
             </w:rPr>
-            <w:t>john@gmail.com<w:br/></w:t>
+            <w:t>jdoe@onecoolstartup.io<w:br/></w:t>
           </w:r>
         </w:hlink>
         <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0">
           <w:rPr>
             <w:sz w:val="16"/>
           </w:rPr>
-          <w:t>(912) 555-4321<w:br/></w:t>
+          <w:t>1-650-999-7777<w:br/></w:t>
         </w:r>
-        <w:hlink w:dest="http://johndoe.com">
+        <w:hlink w:dest="http://janef.me/blog">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
               <w:sz w:val="16"/>
             </w:rPr>
-            <w:t>http://johndoe.com</w:t>
+            <w:t>http://janef.me/blog</w:t>
           </w:r>
         </w:hlink>
       </w:p>
@@ -530,7 +530,7 @@
           <w:pPr>
             <w:pStyle w:val="Summary"/>
           </w:pPr>
-          <w:r><w:rPr></w:rPr><w:t>A summary of John Doe...</w:t></w:r>
+          <w:r><w:rPr><w:b/></w:rPr><w:t>Full-stack software developer with 6+ years industry experience</w:t></w:r><w:r><w:rPr></w:rPr><w:t> specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.</w:t></w:r>
         </w:p>
       </wx:sub-section>
       <wx:sub-section>
@@ -619,7 +619,7 @@
                     <w:noProof/>
                   </w:rPr>
                   <w:pict>
-                    <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#C00000"  strokeweight="0"/>
+                    <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#428BCA"  strokeweight="0"/>
                   </w:pict>
                 </w:r>
                 <w:r>
@@ -627,7 +627,7 @@
                     <w:noProof/>
                   </w:rPr>
                   <w:pict>
-                    <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:0pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+                    <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:8pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
                   </w:pict>
                 </w:r>
               </w:p>
@@ -656,7 +656,283 @@
                     <w:caps/>
                     <w:spacing w:val="22"/>
                   </w:rPr>
-                  <w:t>HTML  CSS  Javascript</w:t>
+                  <w:t>JavaScript  HTML 5  CSS  LAMP  MVC  REST</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:tr>
+      
+      
+          <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+            <w:trPr>
+              <w:trHeight w:val="882"/>
+            </w:trPr>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="828" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <!-- <w:pPr>
+                  <w:jc w:val="right"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:color w:val="989898"/>
+                  </w:rPr>
+                  <w:t>JavaScript</w:t>
+                </w:r> -->
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#C00000"  strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:0pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+              </w:p>
+            </w:tc>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="8748" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="24"/>
+                    <w:b/>
+                    <w:caps/>
+                  </w:rPr>
+                  <w:t>JavaScript</w:t>
+                </w:r>
+              </w:p>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:spacing w:val="22"/>
+                  </w:rPr>
+                  <w:t>Node.js  Angular.js  jQuery  Bootstrap  React.js  Backbone.js</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:tr>
+      
+      
+          <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+            <w:trPr>
+              <w:trHeight w:val="882"/>
+            </w:trPr>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="828" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <!-- <w:pPr>
+                  <w:jc w:val="right"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:color w:val="989898"/>
+                  </w:rPr>
+                  <w:t>Database</w:t>
+                </w:r> -->
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#F1C40F"  strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:16pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+              </w:p>
+            </w:tc>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="8748" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="24"/>
+                    <w:b/>
+                    <w:caps/>
+                  </w:rPr>
+                  <w:t>Database</w:t>
+                </w:r>
+              </w:p>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:spacing w:val="22"/>
+                  </w:rPr>
+                  <w:t>MySQL  PostgreSQL  NoSQL  ORM  Hibernate</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:tr>
+      
+      
+          <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+            <w:trPr>
+              <w:trHeight w:val="882"/>
+            </w:trPr>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="828" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <!-- <w:pPr>
+                  <w:jc w:val="right"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:color w:val="989898"/>
+                  </w:rPr>
+                  <w:t>Cloud</w:t>
+                </w:r> -->
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#F1C40F"  strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:16pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+              </w:p>
+            </w:tc>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="8748" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="24"/>
+                    <w:b/>
+                    <w:caps/>
+                  </w:rPr>
+                  <w:t>Cloud</w:t>
+                </w:r>
+              </w:p>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:spacing w:val="22"/>
+                  </w:rPr>
+                  <w:t>AWS  EC2  RDS  S3  Azure  Dropbox</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:tr>
+      
+      
+          <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+            <w:trPr>
+              <w:trHeight w:val="882"/>
+            </w:trPr>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="828" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <!-- <w:pPr>
+                  <w:jc w:val="right"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:color w:val="989898"/>
+                  </w:rPr>
+                  <w:t>Project</w:t>
+                </w:r> -->
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#5CB85C"  strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:30pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+              </w:p>
+            </w:tc>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="8748" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="24"/>
+                    <w:b/>
+                    <w:caps/>
+                  </w:rPr>
+                  <w:t>Project</w:t>
+                </w:r>
+              </w:p>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:spacing w:val="22"/>
+                  </w:rPr>
+                  <w:t>Agile  TFS  Unified Process  MS Project</w:t>
                 </w:r>
               </w:p>
             </w:tc>
@@ -706,21 +982,21 @@
               </w:tabs>
             </w:pPr>
             <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-              <w:t>President, </w:t>
+              <w:t>Head Code Ninja, </w:t>
             </w:r>
-            <w:hlink w:dest="http://company.com">
+            <w:hlink w:dest="https://onecool.io/does-not-exist">
               <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
                 <w:rPr>
                   <w:rStyle w:val="Hyperlink"/>
                 </w:rPr>
-                <w:t>Company</w:t>
+                <w:t>One Cool Startup</w:t>
               </w:r>
             </w:hlink>
             <w:r wsp:rsidR="00EA0B64">
               <w:tab/>
             </w:r>
             <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-              <w:t>Jan 2013 — Jan 2014</w:t>
+              <w:t>Sep 2013 — Dec 2015</w:t>
             </w:r>
           </w:p>
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -729,12 +1005,12 @@
                 <w:sz-cs w:val="20"/>
               </w:rPr>
             </w:pPr>
-            <w:r><w:rPr></w:rPr><w:t>Description...</w:t></w:r>
+            <w:r><w:rPr></w:rPr><w:t>Development team manager for </w:t></w:r><w:hlink w:dest="https://en.wikipedia.org/wiki/Vaporware"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>OneCoolApp</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.</w:t></w:r>
             <!-- <w:r wsp:rsidRPr="000A3AF0">
               <w:rPr>
                 <w:sz-cs w:val="20"/>
               </w:rPr>
-              <w:t>Description...</w:t>
+              <w:t>Development team manager for [OneCoolApp](https://en.wikipedia.org/wiki/Vaporware) and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.</w:t>
             </w:r> -->
           </w:p>
       
@@ -751,12 +1027,372 @@
                 <w:sz-cs w:val="20"/>
               </w:rPr>
             </w:pPr>
-            <w:r><w:rPr></w:rPr><w:t>Started the company</w:t></w:r>
+            <w:r><w:rPr></w:rPr><w:t>Managed a 5-person development team</w:t></w:r>
             <!-- <w:r>
               <w:rPr>
                 <w:sz-cs w:val="20"/>
               </w:rPr>
-              <w:t>Started the company</w:t>
+              <w:t>Managed a 5-person development team</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Accomplishment 2</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Accomplishment 2</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Etc.</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Etc.</w:t>
+            </w:r> -->
+          </w:p>
+      
+        </wx:sub-section>
+      
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:pPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
+            </w:pPr>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>Principal Developer, </w:t>
+            </w:r>
+            <w:hlink w:dest="https://en.wikipedia.org/wiki/Better_Off_Ted#Plot">
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                </w:rPr>
+                <w:t>Veridian Dynamics</w:t>
+              </w:r>
+            </w:hlink>
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>Jul 2011 — Aug 2013</w:t>
+            </w:r>
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Developer on numerous projects culminating in technical lead role for the </w:t></w:r><w:hlink w:dest="http://betteroffted.wikia.com/wiki/Jabberwocky"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Jabberwocky project</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> and promotion to principal developer.</w:t></w:r>
+            <!-- <w:r wsp:rsidRPr="000A3AF0">
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.</w:t>
+            </w:r> -->
+          </w:p>
+      
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Managed a 5-person development team</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Managed a 5-person development team</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Accomplishment 2</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Accomplishment 2</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Etc.</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Etc.</w:t>
+            </w:r> -->
+          </w:p>
+      
+        </wx:sub-section>
+      
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:pPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
+            </w:pPr>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>IT Administrator, </w:t>
+            </w:r>
+            
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:t>Stark Industries</w:t>
+              </w:r>
+            
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>Oct 2008 — Jun 2011</w:t>
+            </w:r>
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.</w:t></w:r>
+            <!-- <w:r wsp:rsidRPr="000A3AF0">
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.</w:t>
+            </w:r> -->
+          </w:p>
+      
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Promoted to intermediate developer after 6 months</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Promoted to intermediate developer after 6 months</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Accomplishment 2</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Accomplishment 2</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Etc.</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Etc.</w:t>
+            </w:r> -->
+          </w:p>
+      
+        </wx:sub-section>
+      
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:pPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
+            </w:pPr>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>Intern, </w:t>
+            </w:r>
+            
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:t>Dunder Mifflin</w:t>
+              </w:r>
+            
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>Jun 2008 — Sep 2008</w:t>
+            </w:r>
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Performed IT administration and deployments for Dunder Mifflin.</w:t></w:r>
+            <!-- <w:r wsp:rsidRPr="000A3AF0">
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Performed IT administration and deployments for Dunder Mifflin.</w:t>
+            </w:r> -->
+          </w:p>
+      
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Supervised roll-out of Dunder Mifflin Infinity website.</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Supervised roll-out of Dunder Mifflin Infinity website.</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Performed mission-critical system backups and</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Performed mission-critical system backups and </w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Etc.</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Etc.</w:t>
             </w:r> -->
           </w:p>
       
@@ -796,29 +1432,47 @@
                 <w:tab w:val="right" w:pos="9360"/>
               </w:tabs>
             </w:pPr>
-            
+            <w:hlink w:dest="https://www.cornell.edu/">
               <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-                <w:t>University</w:t>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                </w:rPr>
+                <w:t>Cornell University</w:t>
               </w:r>
-            
+            </w:hlink>
             <w:r wsp:rsidR="00EA0B64">
               <w:tab/>
             </w:r>
             <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-              <w:t>2011 — 2013</w:t>
+              <w:t>2005 — 2008</w:t>
             </w:r>
           </w:p>
-          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      
+      
+        </wx:sub-section>
+      
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
             <w:pPr>
-              <w:rPr>
-                <w:sz-cs w:val="20"/>
-              </w:rPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
             </w:pPr>
-            <w:r wsp:rsidRPr="000A3AF0">
-              <w:rPr>
-                <w:sz-cs w:val="20"/>
-              </w:rPr>
-              <w:t>Software Development, Bachelor</w:t>
+            <w:hlink w:dest="https://en.wikipedia.org/wiki/Medfield_College">
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                </w:rPr>
+                <w:t>Medfield College</w:t>
+              </w:r>
+            </w:hlink>
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>2003 — 2005</w:t>
             </w:r>
           </w:p>
       
@@ -860,21 +1514,21 @@
               </w:tabs>
             </w:pPr>
             <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-              <w:t>Volunteer, </w:t>
+              <w:t>Technical Consultant, </w:t>
             </w:r>
-            <w:hlink w:dest="http://organization.com/">
+            <w:hlink w:dest="http://technology-for-tots.org">
               <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
                 <w:rPr>
                   <w:rStyle w:val="Hyperlink"/>
                 </w:rPr>
-                <w:t>Organization</w:t>
+                <w:t>Technology for Tots</w:t>
               </w:r>
             </w:hlink>
             <w:r wsp:rsidR="00EA0B64">
               <w:tab/>
             </w:r>
             <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-              <w:t>Jan 2012 — Jan 2013</w:t>
+              <w:t>Nov 2003 — Jun 2005</w:t>
             </w:r>
           </w:p>
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -883,12 +1537,12 @@
                 <w:sz-cs w:val="20"/>
               </w:rPr>
             </w:pPr>
-            <w:r><w:rPr></w:rPr><w:t>Description...</w:t></w:r>
+            <w:r><w:rPr></w:rPr><w:t>Summary of this volunteer stint.</w:t></w:r>
             <!-- <w:r wsp:rsidRPr="000A3AF0">
               <w:rPr>
                 <w:sz-cs w:val="20"/>
               </w:rPr>
-              <w:t>Description...</w:t>
+              <w:t>Summary of this volunteer stint.</w:t>
             </w:r> -->
           </w:p>
       
@@ -905,12 +1559,162 @@
                 <w:sz-cs w:val="20"/>
               </w:rPr>
             </w:pPr>
-            <w:r><w:rPr></w:rPr><w:t>Awarded 'Volunteer of the Month'</w:t></w:r>
+            <w:r><w:rPr></w:rPr><w:t>Accomplishment 1</w:t></w:r>
             <!-- <w:r>
               <w:rPr>
                 <w:sz-cs w:val="20"/>
               </w:rPr>
-              <w:t>Awarded &#x27;Volunteer of the Month&#x27;</w:t>
+              <w:t>Accomplishment 1</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Accomplishment 2</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Accomplishment 2</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>etc</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>etc</w:t>
+            </w:r> -->
+          </w:p>
+      
+        </wx:sub-section>
+      
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:pPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
+            </w:pPr>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>NCO, </w:t>
+            </w:r>
+            <w:hlink w:dest="http://www.usar.army.mil/">
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                </w:rPr>
+                <w:t>US Army Reserves</w:t>
+              </w:r>
+            </w:hlink>
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>Nov 1999 — Jun 2003</w:t>
+            </w:r>
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Summary of this military stint.</w:t></w:r>
+            <!-- <w:r wsp:rsidRPr="000A3AF0">
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Summary of this military stint.</w:t>
+            </w:r> -->
+          </w:p>
+      
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Accomplishment 1</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Accomplishment 1</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>Accomplishment 2</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>Accomplishment 2</w:t>
+            </w:r> -->
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:listPr>
+                <w:ilvl w:val="0"/>
+                <w:ilfo w:val="1"/>
+                <wx:t wx:val="•"/>
+                <wx:font wx:val="Calibri"/>
+              </w:listPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r><w:rPr></w:rPr><w:t>etc</w:t></w:r>
+            <!-- <w:r>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+              <w:t>etc</w:t>
             </w:r> -->
           </w:p>
       
@@ -949,19 +1753,73 @@
                 <w:tab w:val="right" w:pos="9360"/>
               </w:tabs>
             </w:pPr>
-            <w:hlink w:dest="http://publication.com">
+            <w:hlink w:dest="http://codeproject.com/build-ui-electron-atom.aspx">
               <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
                 <w:rPr>
                   <w:rStyle w:val="Hyperlink"/>
                 </w:rPr>
-                <w:t>Publication</w:t>
+                <w:t>Building User Interfaces with Electron and Atom</w:t>
               </w:r>
             </w:hlink>
             <w:r wsp:rsidR="00EA0B64">
               <w:tab/>
             </w:r>
             <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-              <w:t>2014</w:t>
+              <w:t>2011</w:t>
+            </w:r>
+          </w:p>
+      
+      
+        </wx:sub-section>
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:pPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
+            </w:pPr>
+            <w:hlink w:dest="http://janef.me">
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                </w:rPr>
+                <w:t>Jane Fullstacker&#x27;s Blog</w:t>
+              </w:r>
+            </w:hlink>
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>2011</w:t>
+            </w:r>
+          </w:p>
+      
+      
+        </wx:sub-section>
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:pPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
+            </w:pPr>
+            <w:hlink w:dest="http://url.to.publication.com/blah">
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                </w:rPr>
+                <w:t>Teach Yourself GORFF in 21 Days</w:t>
+              </w:r>
+            </w:hlink>
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>2008</w:t>
             </w:r>
           </w:p>
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -970,7 +1828,7 @@
                 <w:sz-cs w:val="20"/>
               </w:rPr>
             </w:pPr>
-            <w:r><w:rPr></w:rPr><w:t>Description...</w:t></w:r>
+            <w:r><w:rPr></w:rPr><w:t>A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space.</w:t></w:r>
           </w:p>
       
       
@@ -1012,14 +1870,14 @@
             </w:pPr>
             
               <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-                <w:t>Award</w:t>
+                <w:t>Honorable Mention</w:t>
               </w:r>
             
             <w:r wsp:rsidR="00EA0B64">
               <w:tab/>
             </w:r>
             <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-              <w:t>2014-11</w:t>
+              <w:t>2012-01</w:t>
             </w:r>
           </w:p>
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1028,7 +1886,40 @@
                 <w:sz-cs w:val="20"/>
               </w:rPr>
             </w:pPr>
-            <w:r><w:rPr></w:rPr><w:t>There is no spoon.</w:t></w:r>
+            
+          </w:p>
+      
+      
+        </wx:sub-section>
+      
+      
+        <wx:sub-section>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:pPr>
+              <w:pStyle w:val="Heading2"/>
+              <w:tabs>
+                <w:tab w:val="right" w:pos="9360"/>
+              </w:tabs>
+            </w:pPr>
+            
+              <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:t>Summa cum laude</w:t>
+              </w:r>
+            
+            <w:r wsp:rsidR="00EA0B64">
+              <w:tab/>
+            </w:r>
+            <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:t>2012-01</w:t>
+            </w:r>
+          </w:p>
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:rPr>
+                <w:sz-cs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            
           </w:p>
       
       

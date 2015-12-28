@@ -1,56 +1,64 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Robert Young",
+    "label": "Developer",
     "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
+    "email": "robertmyoung@btopenworld.com",
+    "phone": "07581-34-99-00",
+    "website": "http://iamrobertyoung.co.uk",
+    "summary": "I am  a motivated and hardworking IT  and Multimedia  Computing graduate with a thorough  understanding of  the software development cycle as  well  as  excellent communication,  problem solving,  teamwork and  object  oriented programming  skills. Technology  is  my  passion and I am  always  looking for new skills  to  learn to  improve my  knowledge in  multiple  technologies.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "8 Bronington Close",
+      "postalCode": "M22 4ZQ",
+      "city": "Manchester",
+      "countryCode": "UK",
+      "region": "England"
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
+      "username": "iamrobert_young",
+      "url": "http://twitter.com/iamrobert_young"
+    },
+    {
+      "network": "Soundcloud",
+      "username": "djrobyoung",
+      "url": "http://soundcloud.com/djrobyoung"
     }]
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "Glow Media",
+    "position": "Intership",
+    "website": "http://www.glow-internet.com",
+    "startDate": "2014-12-01",
+    "endDate": "2015-05-01",
+    "summary": "I am  currently undertaking a day a week internship at Glow Media while in my final year of University to improve my skills in mobile application development. They are currently using Xamarin which allows apps to be created in their native operating systems but share code through common interfaces. It uses C# with all the .NET classes to help develop an app across iOS, Android & Windows without duplicated code.",
     "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "- helped develop unisoc - helped develop iPad for datel"
     ]
   }],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
+    "institution": "Liverpool John Moores University, School of Computing & Mathematical Sciences",
+    "area": "IT and Multimedia Computing (Sandwich Degree)",
+    "studyType": "BSc (Hons)",
+    "startDate": "2011-09-01",
+    "endDate": "2015-05-01",
+    "gpa": "1st Class Honours",
     "courses": [
-      "DB1101 - Basic SQL"
+      "4000 - Web Design and HCI",
+      "4001 - Introduction to Computer Programming",
+      "4004 - Computing and Society",
+      "4005 - Computing in Practice",
+      "4008 - Computing Systems",
+      "5015 - Project Management",
+      "5019 - Database Design & Connectivity",
+      "5038 - Personal and Professional Development",
+      "5039 - Digital Multimedia Systems",
+      "5045 - Visual Programming",
+      "6000 - Final Year Project",
+      "6043 - Advanced Multimedia Development",
+      "6046 - Cloud Computing",
+      "6048 - Innovations in Software Development",
+      "6051 - E-Commerce Systems"
     ]
   }],
   "awards": [{
@@ -59,35 +67,83 @@
     "awarder": "Company",
     "summary": "There is no spoon."
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
   "skills": [{
+    "name": "Programming",
+    "level": "Master",
+    "keywords": [
+      "C#",
+      "Java",
+      "VB.NET",
+      "Swift",
+      "Objecive-C",
+      "ActionScript 2.0/3.0",
+      "Pascal"
+    ]
+  },
+  {
     "name": "Web Development",
     "level": "Master",
     "keywords": [
       "HTML",
       "CSS",
-      "Javascript"
+      "Javascript",
+      "jQuery",
+      "ASP.NET",
+      "Ajax",
+      "Web Services"
     ]
+  },
+  {
+    "name": "IDEs",
+    "level": "Master",
+    "keywords": [
+      "Visual Studio",
+      "Xcode",
+      "Xamarin",
+      "Eclipse",
+      "NetBeans"
+    ]  
+  },
+  {
+    "name": "Development Tools",
+    "level": "Intermediate",
+    "keywords": [
+      "Jenkins",
+      "Mantins",
+      "TortoiseSVN",
+      "Git",
+      "Mercurial"
+    ]  
+  },
+  {
+    "name": "Data",
+    "level": "Begineer",
+    "keywords": [
+      "SQL",
+      "Microsoft SQL Managerment Studio",
+      "MySQL",
+      "JSON",
+      "XML",
+      "REST"
+    ]  
   }],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Music",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "DJing",
+      "Listening"
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
+    "name": "Martin Taylor",
     "reference": "Reference..."
+  },
+  {
+    "name": "Stephen Tang",
+    "reference": "Reference 2..."
   }]
 }
