@@ -1,149 +1,349 @@
 {
-  "basics": {
-    "name": "Robert Young",
+
+  "name": "Robert Young",
+
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+
+  "info": {
     "label": "Developer",
-    "picture": "",
-    "email": "robertmyoung@btopenworld.com",
-    "phone": "07581-34-99-00",
+    "characterClass": "Programmer",
+    "brief": "I am  a motivated and hardworking IT  and Multimedia  Computing graduate with a thorough  understanding of  the software development cycle as  well  as  excellent communication,  problem solving,  teamwork and  object  oriented programming  skills. Technology  is  my  passion and I am  always  looking for new skills  to  learn to  improve my  knowledge in  multiple  technologies.",
+    "image": "jane_doe.png",
+    "quote": "It's fun to learn."
+  },
+
+  "contact": {
     "website": "http://iamrobertyoung.co.uk",
-    "summary": "I am  a motivated and hardworking IT  and Multimedia  Computing graduate with a thorough  understanding of  the software development cycle as  well  as  excellent communication,  problem solving,  teamwork and  object  oriented programming  skills. Technology  is  my  passion and I am  always  looking for new skills  to  learn to  improve my  knowledge in  multiple  technologies.",
-    "location": {
-      "address": "8 Bronington Close",
-      "postalCode": "M22 4ZQ",
-      "city": "Manchester",
-      "countryCode": "UK",
-      "region": "England"
+    "phone": "07581-34-99-00",
+    "email": "robertmyoung@btopenworld.com"
+  },
+
+  "location": {
+    "address": "Robert Young\n8 Bronington Close\nNorthenden\nManchester\nM22 4ZQ",
+    "city": "Manchester",
+    "region": "England",
+    "code": "M22 4ZQ",
+    "country": "UK"
+  },
+
+  "social": [
+
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "RobertYoung",
+      "url": "https://github.com/RobertYoung"
     },
-    "profiles": [{
+
+    {
+      "label": "Twitter",
       "network": "Twitter",
-      "username": "iamrobert_young",
-      "url": "http://twitter.com/iamrobert_young"
+      "user": "iamrobert_young",
+      "url": "https://twitter.com/iamrobert_young"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "7+ years industry IT and software development experience.",
+
+    "history": [
+      {
+        "employer": "Brookson",
+        "url": "http://www.brookson.co.uk/",
+        "position": "Support Developer",
+        "summary": "I started at Brookson as a Support Developer as soon as I had completed university where I helped maintain an already existing project which was a portal for self-employed professionals. The project, Connect 2.5, was written in .NET using the MVC pattern with the JavaScript framework Knockout.js on the front end. I helped maintain the project by fixing bugs within the application as well as errors caused by user data. I also added new features to the application such a bank link page using the Yodlee API to access users bank details as well as helping to implement a self assessment area for members.\n\nWithin a couple of months, I had worked my way up to working on the new Connect 3.0 project which was re-writing the project using Angular.js. This was a new area for me as I hadn’t done any Angular before this project so I quickly brought my skills up to speed by doing some learning in my own time. We kept the majority of the back-end services to help deliver the application quickly.\n\nWhile working with Connect 2.5, I also created a wallboard for internal purposes to display the call data on the screens within the company. This was built using SignalR to give real time data to the employees of Brookson. I also wrote a program to convert documents to a PDF that were stored within an Excel spreadsheet.",
+        "start": "2015-05",
+        "current": true,
+        "keywords": ["Angular.js", "Knockout.js", "Amazon Web Services", "AWS"],
+        "proj": {
+          "highlights": true
+        },
+        "highlights": ["Angular.JS", "Knockout.js", "Accountancy Portal"]
+      },
+
+      {
+        "employer": "Glow Media",
+        "url": "http://www.glow-internet.com",
+        "position": "Internship",
+        "summary": "While I was completing my final year, I undertook a day a week internship at Glow Media to improve my skills in mobile application development. They are currently using Xamarin which allows apps to be created in their native operating systems but share code through common interfaces. It uses C# with all the .NET classes to help develop an app across iOS, Android & Windows without duplicated code.",
+        "start": "2014-12",
+        "end": "2015-05",
+        "keywords": ["Xamarin","C#","iOS"],
+        "proj": {
+          "highlights": true
+        },
+        "highlights": ["Xamarin", "C#", "iOS"]
+      },
+
+      {
+        "employer": "DataMatters Ltd",
+        "url": "http://www.datamatters.co.uk/",
+        "position": "Student Programmer",
+        "summary": "For my University course I was required to complete a year out in an industrial environment. This has prepared me for the transition from education to work and taught me that I have the potential to push myself further.\n\nMy main role was to help the GUI team in transitioning the already existing text-based system over to a newly designed web interface. The team consisted of 3 members who each had their own products to develop and maintain. The IDE I used to develop was Visual Studio (ASP.NET), which helped me structure the entire project as it included the MVC framework. The webpages were written in HTML, JavaScript, JQuery and Razor. Razor was very beneficial as it helped publish back-end data written in C#, to the web page. I used AJAX to make calls to server, whether it was to submit a form or accessing data that was in the database without having to reload the page.\n\nThe tools that I used to help develop this system were TortoiseSVN, Jenkins build server and Mantis Bug Tracker. By using TortoiseSVN it gave me a better understanding of version control and why you should always use it. Jenkins gave me a clear view of all the different modules and whether they were built correctly. Whenever there was a bug/problem, users could report an issue on Mantis Bug Tracker by giving details on how to re-produce it. By completing this industrial placement it has benefitted me by giving me an eye-opener into a large software development project and how it is maintained.",
+        "start": "2013-07",
+        "end": "2014-09",
+        "proj": {
+          "highlights": true
+        },
+        "highlights": ["MVC", "Jenkins", "ASP.NET"]
+      },
+
+      {
+        "employer": "JD Sports",
+        "url": "http://www.jdsports.co.uk",
+        "position": "Supervisor",
+        "summary": "Since starting work at JD Sports, it has given me the opportunity to work with members of the public working on the shop floor as well as working the tills. Throughout my time at JD I have built on my confidence as I was encouraged to approach customers to see if they needed assistance. I have good interpersonal skills which have been essential for working with the general public from all different cultural backgrounds and for liaising with my manager and my colleagues. I have excellent time keeping skills; my hours at the airport have been very varied starting some days at 4 am in the morning. I have a happy cheerful disposition which helps with early starts or late finishes. I have found it is important to have a good sense of humour at work which makes it more enjoyable and crucial when working as part of a team.",
+        "start": "2009-08",
+        "end": "2013-07",
+        "keywords": [""],
+        "proj": {
+          "highlights": true
+        },
+        "highlights": ["Supervisor", "Customer Service", "Time Keeping"]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "BSc (Hons)",
+
+    "history": [
+
+      {
+        "institution": "Liverpool John Moores University, School of Computing and Mathematical Sciences",
+        "url": "https://www.ljmu.ed",
+        "start": "2011-09",
+        "end": "2015-05",
+        "grade": "1st Class Hons",
+        "summary": "A multiline summary of the education.",
+        "courses": ["2:1 - First Year", "1st - Second Year", "Industrial Placement - Third Year", "1st - Fourth Year"]
+      },
+
+      {
+        "institution": "Xavarian College",
+        "url": "https://en.wikipedia.org/wiki/Medfield_College",
+        "start": "2008-08",
+        "end": "2010-05",
+        "grade": "3.2",
+        "summary": "A multiline summary of the education.",
+        "courses": ["C - Computing", "B - IT", "C - Media"]
+      },
+
+      {
+        "institution": "Trinity High School",
+        "url": "https://en.wikipedia.org/wiki/Medfield_College",
+        "start": "2003-09",
+        "end": "2008-05",
+        "grade": "3.2",
+        "summary": "A multiline summary of the education.",
+        "courses": ["AA - ICT", "A - Religious Studies", "BA - Double Science", "C - Design and Technology", "CB - English language", "D - French", "B - Mathematics", "C - PE"]
+      }
+    ]
+
+  },
+
+  "skills": {
+
+    "sets": [
+      {
+        "name": "Programming",
+        "level": "master",
+        "skills": [
+          "C#", "VB.NET", "Java", "Swift", "Objective-C", "Actionscript 2.0 / 3.0", "Pascal"
+        ]
+      },
+      {
+        "name": "Web Development",
+        "level": "master",
+        "skills": [
+          "JavaScript", "HTML 5", "CSS", "MVC", "REST", "ASP.NET"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "master",
+        "skills": [
+          "Node.js", "Angular.js", "jQuery", "Bootstrap", "Knockout.js"
+        ]
+      },
+      {
+        "name": "IDEs",
+        "level": "advanced",
+        "skills": [
+           "Visual Studio", "Xcode", "Xamarin", "Eclipse", "NetBeans"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MS SQL", "MySQL"
+        ]
+      },
+      {
+        "name": "Development Tools",
+        "level": "intermediate",
+        "skills": [
+          "Jenkins", "Mantins", "TortoiseSVN", "Git", "Mercurial"
+        ]
+      },
+      {
+        "name": "Cloud",
+        "level": "beginner",
+        "skills": [
+          "AWS", "EC2", "S3", "Dropbox"
+        ]
+      }
+    ]
+  },
+
+  "samples": [
+    {
+      "title": "Asteroids",
+      "summary": "A browser-based space shooter built on Three.js.",
+      "url": "http://janef.me/asteroids",
+      "date": "2014-09"
     },
     {
-      "network": "Soundcloud",
-      "username": "djrobyoung",
-      "url": "http://soundcloud.com/djrobyoung"
-    }]
-  },
-  "work": [{
-    "company": "Glow Media",
-    "position": "Intership",
-    "website": "http://www.glow-internet.com",
-    "startDate": "2014-12-01",
-    "endDate": "2015-05-01",
-    "summary": "I am  currently undertaking a day a week internship at Glow Media while in my final year of University to improve my skills in mobile application development. They are currently using Xamarin which allows apps to be created in their native operating systems but share code through common interfaces. It uses C# with all the .NET classes to help develop an app across iOS, Android & Windows without duplicated code.",
-    "highlights": [
-      "- helped develop unisoc - helped develop iPad for datel"
-    ]
-  }],
-  "education": [{
-    "institution": "Liverpool John Moores University, School of Computing & Mathematical Sciences",
-    "area": "IT and Multimedia Computing (Sandwich Degree)",
-    "studyType": "BSc (Hons)",
-    "startDate": "2011-09-01",
-    "endDate": "2015-05-01",
-    "gpa": "1st Class Honours",
-    "courses": [
-      "4000 - Web Design and HCI",
-      "4001 - Introduction to Computer Programming",
-      "4004 - Computing and Society",
-      "4005 - Computing in Practice",
-      "4008 - Computing Systems",
-      "5015 - Project Management",
-      "5019 - Database Design & Connectivity",
-      "5038 - Personal and Professional Development",
-      "5039 - Digital Multimedia Systems",
-      "5045 - Visual Programming",
-      "6000 - Final Year Project",
-      "6043 - Advanced Multimedia Development",
-      "6046 - Cloud Computing",
-      "6048 - Innovations in Software Development",
-      "6051 - E-Commerce Systems"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "skills": [{
-    "name": "Programming",
-    "level": "Master",
-    "keywords": [
-      "C#",
-      "Java",
-      "VB.NET",
-      "Swift",
-      "Objecive-C",
-      "ActionScript 2.0/3.0",
-      "Pascal"
-    ]
-  },
-  {
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript",
-      "jQuery",
-      "ASP.NET",
-      "Ajax",
-      "Web Services"
-    ]
-  },
-  {
-    "name": "IDEs",
-    "level": "Master",
-    "keywords": [
-      "Visual Studio",
-      "Xcode",
-      "Xamarin",
-      "Eclipse",
-      "NetBeans"
-    ]  
-  },
-  {
-    "name": "Development Tools",
-    "level": "Intermediate",
-    "keywords": [
-      "Jenkins",
-      "Mantins",
-      "TortoiseSVN",
-      "Git",
-      "Mercurial"
-    ]  
-  },
-  {
-    "name": "Data",
-    "level": "Begineer",
-    "keywords": [
-      "SQL",
-      "Microsoft SQL Managerment Studio",
-      "MySQL",
-      "JSON",
-      "XML",
-      "REST"
-    ]  
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Music",
-    "keywords": [
-      "DJing",
-      "Listening"
-    ]
-  }],
-  "references": [{
-    "name": "Martin Taylor",
-    "reference": "Reference..."
-  },
-  {
-    "name": "Stephen Tang",
-    "reference": "Reference 2..."
-  }]
+      "title": "Rememberpedia",
+      "summary": "A website to help you remember things.",
+      "url": "https://rememberpedia.com",
+      "date": "2015-07"
+    }
+  ],
+
+  "reading": [
+    {
+      "title": "r/programming",
+      "flavor": "website",
+      "url": "https://www.reddit.com/r/programming/"
+    },
+    {
+      "title": "r/webdev",
+      "flavor": "website",
+      "url": "https://www.reddit.com/r/webdev/"
+    },
+    {
+      "title": "r/iosprogramming",
+      "flavor": "website",
+      "url": "https://www.reddit.com/r/iosprogramming/"
+    },
+    {
+      "title": "Hacker News / YCombinator",
+      "flavor": "website",
+      "url": "https://news.ycombinator.com/"
+    },
+    {
+      "title": "Coding Horror",
+      "flavor": "blog",
+      "url": "http://www.codinghorror.com",
+      "author": "Jeff Atwood"
+    }
+  ],
+
+  "recognition": [
+    {
+      "flavor": "award",
+      "from": "BCS",
+      "title": "BCS Merseyside Computing Prize",
+      "summary": "This prize was awarded for gaining the top marks in my final year at LJMU.",
+      "date": "2015"
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Martin Taylor",
+      "flavor": "professional",
+      "private": true,
+      "contact": [
+        {
+          "label": "Phone",
+          "flavor": "phone",
+          "value": "0800 308 1180"
+        },
+        {
+          "label": "Work email",
+          "flavor": "email",
+          "value": "mtaylor@dmatters.co.uk"
+        }
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+
+  "extracurricular": [
+    {
+      "title": "Bay Area Crew Club",
+      "activity": "",
+      "location": "San Francisco, CA",
+      "start": "2014-05"
+    },
+    {
+      "title": "Organizer / Manager",
+      "activity": "JavaScript Game Development Meetup",
+      "location": "Austin, TX",
+      "start": "2011-03",
+      "end": "2014-01",
+      "highlights": [
+        "Monthly speaker on creative JavaScript development.",
+        "Founded group and oversaw growth to 500+ members."
+      ]
+
+    }
+  ],
+
+  "governance": [
+    {
+      "flavor": "board",
+      "role": "Member",
+      "organization": "The Mommies Network",
+      "url": "http://themommiesnetwork.org",
+      "start": "2008-02",
+      "end": "2010-01",
+      "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
+    },
+    {
+      "flavor": "committee",
+      "role": "Academic Contributor",
+      "organization": "Khronos Group",
+      "url": "https://www.khronos.org",
+      "start": "2015-01",
+      "highlights": [
+        "Participated in GORFF standardization process (Draft 2)."
+      ]
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "music",
+      "summary": "Since January 2010 I have taught myself to DJ which has given me the necessary skills to perform in clubs and pubs around  my  area. This  has led to  me  to  have more confidence  in  front of  a group of  people. ",
+      "keywords": [ "DJ", "Mixing", "Self-Taught" ]
+    },
+    {
+      "name": "computing",
+      "summary": "From  a young age I have  developed an  interest  in  computer  technology and  have  built my  own personal  computers using components  that  I have  bought  and assembled. My learning  has been  enhanced  through helping friends and family  with  computer  problems, covering  both  hardware  and software  issues. I have  an  enthusiastic  and energetic passion for technology, as  I love  to  research newly  developed products and  assess  how they  are going to  change  the world."
+    },
+    {
+      "name": "learning",
+      "summary": "In  my  own time, during  my  year  on  industrial placement, I taught  myself  to  develop iOS apps  for the iPhone  & iPad  through tutorials and online  courses.  I hope  to  concentrate more  on  this  after I have  completed University with the ultimate  aim of  releasing an  app to  the App Store."
+    }
+  ]
 }

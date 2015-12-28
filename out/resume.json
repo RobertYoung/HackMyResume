@@ -1,133 +1,121 @@
 {
-  "name": "Jane Q. Fullstacker",
+  "name": "Robert Young",
   "meta": {
     "format": "FRESH@0.1.0",
     "version": "0.1.0"
   },
   "info": {
-    "label": "Senior Developer",
+    "label": "Developer",
     "characterClass": "Programmer",
-    "brief": "**Full-stack software developer with 6+ years industry experience** specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.",
+    "brief": "I am  a motivated and hardworking IT  and Multimedia  Computing graduate with a thorough  understanding of  the software development cycle as  well  as  excellent communication,  problem solving,  teamwork and  object  oriented programming  skills. Technology  is  my  passion and I am  always  looking for new skills  to  learn to  improve my  knowledge in  multiple  technologies.",
     "image": "jane_doe.png",
-    "quote": "Be the change you want to see in the world."
+    "quote": "It's fun to learn."
   },
   "contact": {
-    "website": "http://janef.me/blog",
-    "phone": "1-650-999-7777",
-    "email": "jdoe@onecoolstartup.io",
-    "other": [
-      {
-        "label": "Home Phone",
-        "flavor": "phone",
-        "value": "1-650-999-4321"
-      },
-      {
-        "label": "Work Phone",
-        "flavor": "phone",
-        "value": "1-650-777-1234"
-      },
-      {
-        "label": "Personal Email",
-        "flavor": "email",
-        "value": "jane@janef.me"
-      }
-    ]
+    "website": "http://iamrobertyoung.co.uk",
+    "phone": "07581-34-99-00",
+    "email": "robertmyoung@btopenworld.com"
   },
   "location": {
-    "address": "Jane Fullstacker\n123 Somewhere Rd.\nMountain View, CA 94035",
-    "city": "Mountain View",
-    "region": "CA",
-    "code": "94035",
-    "country": "US"
+    "address": "Robert Young\n8 Bronington Close\nNorthenden\nManchester\nM22 4ZQ",
+    "city": "Manchester",
+    "region": "England",
+    "code": "M22 4ZQ",
+    "country": "UK"
   },
   "social": [
     {
       "label": "GitHub",
       "network": "GitHub",
-      "user": "janef-was-here",
-      "url": "https://github.com/janef-was-here"
+      "user": "RobertYoung",
+      "url": "https://github.com/RobertYoung"
     },
     {
       "label": "Twitter",
       "network": "Twitter",
-      "user": "janef-was-here",
-      "url": "https://twitter.com/janef-was-here"
+      "user": "iamrobert_young",
+      "url": "https://twitter.com/iamrobert_young"
     }
   ],
   "employment": {
     "summary": "7+ years industry IT and software development experience.",
     "history": [
       {
-        "employer": "One Cool Startup",
-        "url": "https://onecool.io/does-not-exist",
-        "position": "Head Code Ninja",
-        "summary": "Development team manager for [OneCoolApp](https://en.wikipedia.org/wiki/Vaporware) and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.",
-        "start": "2013-09",
+        "employer": "Brookson",
+        "url": "http://www.brookson.co.uk/",
+        "position": "Support Developer",
+        "summary": "I started at Brookson as a Support Developer as soon as I had completed university where I helped maintain an already existing project which was a portal for self-employed professionals. The project, Connect 2.5, was written in .NET using the MVC pattern with the JavaScript framework Knockout.js on the front end. I helped maintain the project by fixing bugs within the application as well as errors caused by user data. I also added new features to the application such a bank link page using the Yodlee API to access users bank details as well as helping to implement a self assessment area for members.\n\nWithin a couple of months, I had worked my way up to working on the new Connect 3.0 project which was re-writing the project using Angular.js. This was a new area for me as I hadn’t done any Angular before this project so I quickly brought my skills up to speed by doing some learning in my own time. We kept the majority of the back-end services to help deliver the application quickly.\n\nWhile working with Connect 2.5, I also created a wallboard for internal purposes to display the call data on the screens within the company. This was built using SignalR to give real time data to the employees of Brookson. I also wrote a program to convert documents to a PDF that were stored within an Excel spreadsheet.",
+        "start": "2015-05",
         "current": true,
         "keywords": [
-          "Agile",
-          "PM",
+          "Angular.js",
+          "Knockout.js",
           "Amazon Web Services",
           "AWS"
         ],
+        "proj": {
+          "highlights": true
+        },
         "highlights": [
-          "Managed a 5-person development team",
-          "Accomplishment 2",
-          "Etc."
+          "Angular.JS",
+          "Knockout.js",
+          "Accountancy Portal"
         ]
       },
       {
-        "employer": "Veridian Dynamics",
-        "url": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
-        "position": "Principal Developer",
-        "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
-        "start": "2011-07",
-        "end": "2013-08",
+        "employer": "Glow Media",
+        "url": "http://www.glow-internet.com",
+        "position": "Internship",
+        "summary": "While I was completing my final year, I undertook a day a week internship at Glow Media to improve my skills in mobile application development. They are currently using Xamarin which allows apps to be created in their native operating systems but share code through common interfaces. It uses C# with all the .NET classes to help develop an app across iOS, Android & Windows without duplicated code.",
+        "start": "2014-12",
+        "end": "2015-05",
         "keywords": [
-          "C++",
-          "C",
-          "Linux"
+          "Xamarin",
+          "C#",
+          "iOS"
         ],
+        "proj": {
+          "highlights": true
+        },
         "highlights": [
-          "Managed a 5-person development team",
-          "Accomplishment 2",
-          "Etc."
+          "Xamarin",
+          "C#",
+          "iOS"
         ]
       },
       {
-        "employer": "Stark Industries",
-        "position": "IT Administrator",
-        "summary": "Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.",
-        "start": "2008-10",
-        "end": "2011-06",
-        "keywords": [
-          "Novell",
-          "Active Directory",
-          "Linux",
-          "Windows"
-        ],
+        "employer": "DataMatters Ltd",
+        "url": "http://www.datamatters.co.uk/",
+        "position": "Student Programmer",
+        "summary": "For my University course I was required to complete a year out in an industrial environment. This has prepared me for the transition from education to work and taught me that I have the potential to push myself further.\n\nMy main role was to help the GUI team in transitioning the already existing text-based system over to a newly designed web interface. The team consisted of 3 members who each had their own products to develop and maintain. The IDE I used to develop was Visual Studio (ASP.NET), which helped me structure the entire project as it included the MVC framework. The webpages were written in HTML, JavaScript, JQuery and Razor. Razor was very beneficial as it helped publish back-end data written in C#, to the web page. I used AJAX to make calls to server, whether it was to submit a form or accessing data that was in the database without having to reload the page.\n\nThe tools that I used to help develop this system were TortoiseSVN, Jenkins build server and Mantis Bug Tracker. By using TortoiseSVN it gave me a better understanding of version control and why you should always use it. Jenkins gave me a clear view of all the different modules and whether they were built correctly. Whenever there was a bug/problem, users could report an issue on Mantis Bug Tracker by giving details on how to re-produce it. By completing this industrial placement it has benefitted me by giving me an eye-opener into a large software development project and how it is maintained.",
+        "start": "2013-07",
+        "end": "2014-09",
+        "proj": {
+          "highlights": true
+        },
         "highlights": [
-          "Promoted to intermediate developer after 6 months",
-          "Accomplishment 2",
-          "Etc."
+          "MVC",
+          "Jenkins",
+          "ASP.NET"
         ]
       },
       {
-        "employer": "Dunder Mifflin",
-        "position": "Intern",
-        "summary": "Performed IT administration and deployments for Dunder Mifflin.",
-        "start": "2008-06",
-        "end": "2008-09",
+        "employer": "JD Sports",
+        "url": "http://www.jdsports.co.uk",
+        "position": "Supervisor",
+        "summary": "Since starting work at JD Sports, it has given me the opportunity to work with members of the public working on the shop floor as well as working the tills. Throughout my time at JD I have built on my confidence as I was encouraged to approach customers to see if they needed assistance. I have good interpersonal skills which have been essential for working with the general public from all different cultural backgrounds and for liaising with my manager and my colleagues. I have excellent time keeping skills; my hours at the airport have been very varied starting some days at 4 am in the morning. I have a happy cheerful disposition which helps with early starts or late finishes. I have found it is important to have a good sense of humour at work which makes it more enjoyable and crucial when working as part of a team.",
+        "start": "2009-08",
+        "end": "2013-07",
         "keywords": [
-          "Novell",
-          "Active Directory",
-          "Linux",
-          "Windows"
+          ""
         ],
+        "proj": {
+          "highlights": true
+        },
         "highlights": [
-          "Supervised roll-out of Dunder Mifflin Infinity website.",
-          "Performed mission-critical system backups and ",
-          "Etc."
+          "Supervisor",
+          "Customer Service",
+          "Time Keeping"
         ]
       }
     ]
@@ -135,65 +123,51 @@
   "education": {
     "summary": "",
     "level": "degree",
-    "degree": "BSCS",
+    "degree": "BSc (Hons)",
     "history": [
       {
-        "institution": "Cornell University",
-        "url": "https://www.cornell.edu/",
-        "start": "2005-09",
-        "end": "2008-05",
-        "grade": "3.5",
+        "institution": "Liverpool John Moores University, School of Computing and Mathematical Sciences",
+        "url": "https://www.ljmu.ed",
+        "start": "2011-09",
+        "end": "2015-05",
+        "grade": "1st Class Hons",
         "summary": "A multiline summary of the education.",
-        "curriculum": [
-          "Course 1",
-          "Course 2",
-          "Course 2"
+        "courses": [
+          "2:1 - First Year",
+          "1st - Second Year",
+          "Industrial Placement - Third Year",
+          "1st - Fourth Year"
         ]
       },
       {
-        "institution": "Medfield College",
+        "institution": "Xavarian College",
         "url": "https://en.wikipedia.org/wiki/Medfield_College",
-        "start": "2003-09",
-        "end": "2005-06",
+        "start": "2008-08",
+        "end": "2010-05",
         "grade": "3.2",
         "summary": "A multiline summary of the education.",
-        "curriculum": [
-          "Course 1",
-          "Course 2",
-          "Course 2"
-        ]
-      }
-    ]
-  },
-  "service": {
-    "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
-    "history": [
-      {
-        "flavor": "volunteer",
-        "position": "Technical Consultant",
-        "organization": "Technology for Tots",
-        "url": "http://technology-for-tots.org",
-        "start": "2003-11",
-        "end": "2005-06",
-        "summary": "Summary of this volunteer stint.",
-        "highlights": [
-          "Accomplishment 1",
-          "Accomplishment 2",
-          "etc"
+        "courses": [
+          "C - Computing",
+          "B - IT",
+          "C - Media"
         ]
       },
       {
-        "flavor": "military",
-        "position": "NCO",
-        "organization": "US Army Reserves",
-        "url": "http://www.usar.army.mil/",
-        "start": "1999-11",
-        "end": "2003-06",
-        "summary": "Summary of this military stint.",
-        "highlights": [
-          "Accomplishment 1",
-          "Accomplishment 2",
-          "etc"
+        "institution": "Trinity High School",
+        "url": "https://en.wikipedia.org/wiki/Medfield_College",
+        "start": "2003-09",
+        "end": "2008-05",
+        "grade": "3.2",
+        "summary": "A multiline summary of the education.",
+        "courses": [
+          "AA - ICT",
+          "A - Religious Studies",
+          "BA - Double Science",
+          "C - Design and Technology",
+          "CB - English language",
+          "D - French",
+          "B - Mathematics",
+          "C - PE"
         ]
       }
     ]
@@ -201,15 +175,28 @@
   "skills": {
     "sets": [
       {
+        "name": "Programming",
+        "level": "master",
+        "skills": [
+          "C#",
+          "VB.NET",
+          "Java",
+          "Swift",
+          "Objective-C",
+          "Actionscript 2.0 / 3.0",
+          "Pascal"
+        ]
+      },
+      {
         "name": "Web Development",
-        "level": "advanced",
+        "level": "master",
         "skills": [
           "JavaScript",
           "HTML 5",
           "CSS",
-          "LAMP",
           "MVC",
-          "REST"
+          "REST",
+          "ASP.NET"
         ]
       },
       {
@@ -220,78 +207,48 @@
           "Angular.js",
           "jQuery",
           "Bootstrap",
-          "React.js",
-          "Backbone.js"
+          "Knockout.js"
+        ]
+      },
+      {
+        "name": "IDEs",
+        "level": "advanced",
+        "skills": [
+          "Visual Studio",
+          "Xcode",
+          "Xamarin",
+          "Eclipse",
+          "NetBeans"
         ]
       },
       {
         "name": "Database",
         "level": "intermediate",
         "skills": [
-          "MySQL",
-          "PostgreSQL",
-          "NoSQL",
-          "ORM",
-          "Hibernate"
+          "MS SQL",
+          "MySQL"
+        ]
+      },
+      {
+        "name": "Development Tools",
+        "level": "intermediate",
+        "skills": [
+          "Jenkins",
+          "Mantins",
+          "TortoiseSVN",
+          "Git",
+          "Mercurial"
         ]
       },
       {
         "name": "Cloud",
-        "level": "intermediate",
+        "level": "beginner",
         "skills": [
           "AWS",
           "EC2",
-          "RDS",
           "S3",
-          "Azure",
           "Dropbox"
         ]
-      },
-      {
-        "name": "Project",
-        "level": "beginner",
-        "skills": [
-          "Agile",
-          "TFS",
-          "Unified Process",
-          "MS Project"
-        ]
-      }
-    ],
-    "list": [
-      {
-        "name": "C++",
-        "id": "1",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "9",
-        "years": 7,
-        "proof": "http://myblog.com/interesting-cplusplus-post"
-      },
-      {
-        "name": "Ruby",
-        "id": "2",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "9",
-        "years": 7,
-        "proof": "http://myblog.com/interesting-cplusplus-post"
-      },
-      {
-        "name": "Xcode",
-        "summary": "Xcode 6 development.",
-        "level": "5",
-        "years": "3"
-      },
-      {
-        "name": "Linux",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "advanced",
-        "years": "4+"
-      },
-      {
-        "name": "Agile",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "B+",
-        "years": 2
       }
     ]
   },
@@ -309,54 +266,21 @@
       "date": "2015-07"
     }
   ],
-  "writing": [
-    {
-      "title": "Building User Interfaces with Electron and Atom",
-      "flavor": "article",
-      "date": "2011",
-      "publisher": {
-        "name": "Code Project",
-        "url": "http://codeproject.com"
-      },
-      "url": "http://codeproject.com/build-ui-electron-atom.aspx"
-    },
-    {
-      "title": "Jane Fullstacker's Blog",
-      "flavor": "blog",
-      "date": "2011",
-      "publisher": {
-        "name": "self",
-        "url": "http://janef.me"
-      },
-      "url": "http://janef.me"
-    },
-    {
-      "title": "Teach Yourself GORFF in 21 Days",
-      "flavor": "book",
-      "date": "2008",
-      "publisher": {
-        "name": "Amazon",
-        "url": "https://www.amazon.com"
-      },
-      "url": "http://url.to.publication.com/blah",
-      "author": [
-        "Jane Fullstacker",
-        "John Smith"
-      ],
-      "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
-    }
-  ],
   "reading": [
-    {
-      "title": "Code Complete",
-      "flavor": "book",
-      "url": "http://www.cc2e.com/Default.aspx",
-      "author": "Steve McConnell"
-    },
     {
       "title": "r/programming",
       "flavor": "website",
       "url": "https://www.reddit.com/r/programming/"
+    },
+    {
+      "title": "r/webdev",
+      "flavor": "website",
+      "url": "https://www.reddit.com/r/webdev/"
+    },
+    {
+      "title": "r/iosprogramming",
+      "flavor": "website",
+      "url": "https://www.reddit.com/r/iosprogramming/"
     },
     {
       "title": "Hacker News / YCombinator",
@@ -370,80 +294,38 @@
       "author": "Jeff Atwood"
     }
   ],
-  "speaking": [
-    {
-      "title": "Data Warehousing Evolved: DARMA 2.0",
-      "role": "Speaker",
-      "event": "OPENSTART 2013 Developer's Conference",
-      "location": "Portland, OR",
-      "date": "2012",
-      "highlights": [
-        "Won 'Best Presentation on an Emerging Technical Field' prize."
-      ]
-    }
-  ],
   "recognition": [
     {
       "flavor": "award",
-      "from": "Google",
-      "title": "Honorable Mention",
-      "event": "Summer of Code",
-      "date": "2012"
-    },
-    {
-      "flavor": "honor",
-      "from": "Cornell University",
-      "title": "Summa cum laude",
-      "event": "graduation",
-      "date": "2012"
+      "from": "BCS",
+      "title": "BCS Merseyside Computing Prize",
+      "summary": "This prize was awarded for gaining the top marks in my final year at LJMU.",
+      "date": "2015"
     }
   ],
   "references": [
     {
-      "name": "John Davidson",
+      "name": "Martin Taylor",
       "flavor": "professional",
       "private": true,
       "contact": [
         {
-          "label": "Mobile",
+          "label": "Phone",
           "flavor": "phone",
-          "value": "9-(999)-999-9999"
+          "value": "0800 308 1180"
         },
         {
           "label": "Work email",
           "flavor": "email",
-          "value": "jdavidson@veridiandynamics.com"
+          "value": "mtaylor@dmatters.co.uk"
         }
       ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "John Davidson",
-      "flavor": "professional",
-      "quote": "Jane is awesome! I'd hire her again in a heartbeat.",
-      "private": true
-    },
-    {
-      "name": "Elias Fullstacker",
-      "flavor": "technical",
-      "quote": "I worked with Jane on Jabberwocky and can vouch for her awesome technical capabilities and attention to detail. Insta-hire."
-    },
-    {
-      "name": "Dana Nevins",
-      "flavor": "personal",
-      "quote": "I've known Jane personally and professionally for almost ten years. She is one in a million."
     }
   ],
   "languages": [
     {
       "language": "English",
       "level": "Native"
-    },
-    {
-      "language": "Spanish",
-      "level": "Moderate",
-      "years": 10
     }
   ],
   "extracurricular": [
@@ -488,20 +370,21 @@
   ],
   "interests": [
     {
-      "name": "reading",
-      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+      "name": "music",
+      "summary": "Since January 2010 I have taught myself to DJ which has given me the necessary skills to perform in clubs and pubs around  my  area. This  has led to  me  to  have more confidence  in  front of  a group of  people. ",
       "keywords": [
-        "mystery",
-        "Agatha Christie",
-        "John Grisham"
+        "DJ",
+        "Mixing",
+        "Self-Taught"
       ]
     },
     {
-      "name": "hiking",
-      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+      "name": "computing",
+      "summary": "From  a young age I have  developed an  interest  in  computer  technology and  have  built my  own personal  computers using components  that  I have  bought  and assembled. My learning  has been  enhanced  through helping friends and family  with  computer  problems, covering  both  hardware  and software  issues. I have  an  enthusiastic  and energetic passion for technology, as  I love  to  research newly  developed products and  assess  how they  are going to  change  the world."
     },
     {
-      "name": "yoga"
+      "name": "learning",
+      "summary": "In  my  own time, during  my  year  on  industrial placement, I taught  myself  to  develop iOS apps  for the iPhone  & iPad  through tutorials and online  courses.  I hope  to  concentrate more  on  this  after I have  completed University with the ultimate  aim of  releasing an  app to  the App Store."
     }
   ]
 }
